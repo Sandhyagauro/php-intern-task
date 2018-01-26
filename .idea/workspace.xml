@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1fd9419-eab2-4b9b-9ecd-d29be4f86f0e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/DB.php" afterPath="$PROJECT_DIR$/Classes/DB.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/User.php" afterPath="$PROJECT_DIR$/Classes/User.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add.php" afterPath="$PROJECT_DIR$/add.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,10 +47,10 @@
         <entry file="file://$PROJECT_DIR$/Classes/User.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="66" column="6" lean-forward="false" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding>
-                <marker date="1516981781174" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
-                <marker date="1516981781174" expanded="true" signature="1240:1259" ph="select * fro... users" />
+                <marker date="1516982833473" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
+                <marker date="1516982833473" expanded="true" signature="1234:1253" ph="select * fro... users" />
               </folding>
             </state>
           </provider>
@@ -136,11 +133,6 @@
               <item name="php-intern-task" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Classes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="php-intern-task" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-intern-task" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -181,12 +173,12 @@
       <workItem from="1516893341159" duration="946000" />
       <workItem from="1516894288659" duration="1033000" />
       <workItem from="1516998915686" duration="760000" />
-      <workItem from="1516979621269" duration="2161000" />
+      <workItem from="1516979621269" duration="4001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8956000" />
+    <option name="totallyTimeSpent" value="10796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1327" height="780" extended-state="6" />
@@ -245,8 +237,8 @@
         <state relative-caret-position="1080">
           <caret line="60" column="36" lean-forward="false" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
           <folding>
-            <marker date="1516981781174" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
-            <marker date="1516981781174" expanded="true" signature="1240:1259" ph="select * fro... users" />
+            <marker date="1516982833473" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
+            <marker date="1516982833473" expanded="true" signature="1234:1253" ph="select * fro... users" />
           </folding>
         </state>
       </provider>
@@ -280,8 +272,8 @@
         <state relative-caret-position="1080">
           <caret line="60" column="36" lean-forward="false" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
           <folding>
-            <marker date="1516981781174" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
-            <marker date="1516981781174" expanded="true" signature="1240:1259" ph="select * fro... users" />
+            <marker date="1516982833473" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
+            <marker date="1516982833473" expanded="true" signature="1234:1253" ph="select * fro... users" />
           </folding>
         </state>
       </provider>
@@ -323,8 +315,8 @@
         <state relative-caret-position="666">
           <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding>
-            <marker date="1516981781174" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
-            <marker date="1516981781174" expanded="true" signature="1240:1259" ph="select * fro... users" />
+            <marker date="1516982833473" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
+            <marker date="1516982833473" expanded="true" signature="1234:1253" ph="select * fro... users" />
           </folding>
         </state>
       </provider>
@@ -366,8 +358,8 @@
         <state relative-caret-position="666">
           <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding>
-            <marker date="1516981781174" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
-            <marker date="1516981781174" expanded="true" signature="1240:1259" ph="select * fro... users" />
+            <marker date="1516982833473" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
+            <marker date="1516982833473" expanded="true" signature="1234:1253" ph="select * fro... users" />
           </folding>
         </state>
       </provider>
@@ -401,8 +393,8 @@
         <state relative-caret-position="666">
           <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding>
-            <marker date="1516981781174" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
-            <marker date="1516981781174" expanded="true" signature="1240:1259" ph="select * fro... users" />
+            <marker date="1516982833473" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
+            <marker date="1516982833473" expanded="true" signature="1234:1253" ph="select * fro... users" />
           </folding>
         </state>
       </provider>
@@ -462,8 +454,8 @@
         <state relative-caret-position="414">
           <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="24" />
           <folding>
-            <marker date="1516981781174" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
-            <marker date="1516981781174" expanded="true" signature="1240:1259" ph="select * fro... users" />
+            <marker date="1516982833473" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
+            <marker date="1516982833473" expanded="true" signature="1234:1253" ph="select * fro... users" />
           </folding>
         </state>
       </provider>
@@ -512,10 +504,10 @@
     <entry file="file://$PROJECT_DIR$/Classes/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="66" column="6" lean-forward="false" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
-            <marker date="1516981781174" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
-            <marker date="1516981781174" expanded="true" signature="1240:1259" ph="select * fro... users" />
+            <marker date="1516982833473" expanded="true" signature="923:1122" ph="INSERT INTO users... " />
+            <marker date="1516982833473" expanded="true" signature="1234:1253" ph="select * fro... users" />
           </folding>
         </state>
       </provider>

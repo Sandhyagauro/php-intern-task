@@ -64,7 +64,7 @@ class User extends DB
             '".$this->getLastName()."',
             '".$this->getEmail()."'
             )";
-      
+
         return mysqli_query($this->db, $query);
     }
 
