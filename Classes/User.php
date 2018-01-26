@@ -61,10 +61,10 @@ class User extends DB
         $query = "INSERT INTO users (first_name, last_name,email) 
             values(
             '".$this->getFirstName()."',
-            '".$this->getLastName()."'
-            '".$this->getEmail()."',
+            '".$this->getLastName()."',
+            '".$this->getEmail()."'
             )";
-
+      
         return mysqli_query($this->db, $query);
     }
 
